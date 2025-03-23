@@ -1,2 +1,2 @@
 # Python-Object-Oriented-Programming
-Repository python object oriented programming
+Repository project python object oriented programming
